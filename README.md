@@ -55,23 +55,16 @@ To get started with Simple-QR-Code-Generator, follow these steps:
 2. Press the "Generate code" button.
 3. The generated QR code will be displayed on the screen.
 
-## Project Structure
-
-- `App.js`: The main application component.
-- `components/QRCodeGenerator.js`: The component responsible for generating and displaying QR codes.
-- `assets/images/placeholder.png`: Placeholder image for the QR code display area.
-
 ## Dependencies
 
 - React
 - React Native
 - Axios
-- react-native-vector-icons
 - Expo
 
 ## Contributing
 
-We welcome contributions!
+We welcome contributions! Please feel free to fork this repository and submit pull requests to contribute.
 
 ## License
 
@@ -80,7 +73,7 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 - QR code generation API: [GoQR](https://goqr.me/api/)
-- Placeholder image: [FreePik](https://www.freepik.com/)
+- Images: [Undraw](https://undraw.co/)
 
 ## Contact
 
